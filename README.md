@@ -26,15 +26,6 @@ The notebook simulates heart rate time-series data, injects artificial anomalies
   - scipy
   - (optional) scikit-learn
 
-## How to Run
-1. **Google Colab:**
-   - Upload the notebook (`HRV_Anomaly_Detection.ipynb`) to [Google Colab](https://colab.research.google.com/).
-   - Run all cells sequentially.
-
-2. **Jupyter Notebook:**
-   - Open the notebook in JupyterLab or Jupyter Notebook.
-   - Run all cells in order.
-
 All code blocks are commented for clarity and learning.
 
 ## Interpretation of Results
@@ -45,9 +36,6 @@ All code blocks are commented for clarity and learning.
   - FFT plots help identify dominant HRV frequencies (e.g., respiratory sinus arrhythmia).
 - **Adaptability:**
   - The pipeline can be adapted to real patient data for clinical or research use.
-
-## Healthcare Application
-This project is tailored for junior data scientists or clinicians interested in applying time-series analysis to pediatric heart rate data. The approach can help flag abnormal patterns for further investigation, supporting better post-surgical care.
 
 ---
 
