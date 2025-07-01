@@ -54,4 +54,4 @@ if submitted:
 
 # Footer
 st.markdown("---")
-st.markdown("<small>Developed for Sri Sathya Sai Sanjeevani Centre for Child Heart Care | Data Science Portfolio Project</small>", unsafe_allow_html=True)
+st.markdown("<small><b>Project Author: Vipul Singh Parmar</b></small>", unsafe_allow_html=True)
